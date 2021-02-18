@@ -117,7 +117,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
+Exercise for MSCH-C220, 17 February 2021
 
 A Godot Project Template, for use in future projects.
 
@@ -132,5 +132,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
